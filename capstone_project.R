@@ -1,5 +1,5 @@
 getwd()
-setwd("~/Documents/Google_data_analysis/Module 8/Project/2021")
+setwd("~/Documents/Google_data_analysis")
 
 library(tidyverse)  #helps wrangle data
 # Use the conflicted package to manage conflicts
